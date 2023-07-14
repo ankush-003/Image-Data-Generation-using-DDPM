@@ -8,6 +8,10 @@
 
 - The Image Data Generator using DDPM Model is particularly valuable when acquiring large and diverse datasets is challenging or time-consuming. It empowers researchers, data scientists, and machine learning practitioners to create artificial data that can be used for tasks such as image classification, object detection, image segmentation, and other computer vision applications. By augmenting their datasets with synthetic images, users can enhance the robustness and generalization capabilities of their machine learning models.
 
+## Gradio App on 🤗Spaces
+![[Gradio App](https://huggingface.co/spaces/ankush-003/Image-Data-Generator)](https://github.com/ankush-003/Image-Data-Generation-using-DDPM/assets/94037471/d5b5a07e-6123-4f9d-a034-9254c80ec58e)
+
+
 ## References
 - [Read more about DDPM at 🤗Docs](https://huggingface.co/docs/diffusers/api/schedulers/ddpm)
 - [RETINAL FUNDUS MULTI-DISEASE IMAGE DATASET](https://ieee-dataport.org/open-access/retinal-fundus-multi-disease-image-dataset-rfmid)
